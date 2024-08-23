@@ -36,5 +36,5 @@ This project allows users to upload an Excel file containing company and contact
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/birvaoza/Shipmnts
 cd your-repo-name
